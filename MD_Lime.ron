@@ -1,0 +1,21 @@
+// Material Design MD_LIME palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_LIME_50": "#F9FBE7",
+        "MD_LIME_100": "#F0F4C3",
+        "MD_LIME_200": "#E6EE9C",        
+        "MD_LIME_300": "#DCE775",
+        "MD_LIME_400": "#D4E157",
+        "MD_LIME_500": "#CDDC39",
+        "MD_LIME_600": "#C0CA33",     
+        "MD_LIME_700": "#AFB42B",   
+        "MD_LIME_800": "#9E9D24",
+        "MD_LIME_900": "#827717",
+        "MD_LIME_A100": "#F4FF81",
+     	"MD_LIME_A200": "#EEFF41",
+	"MD_LIME_A400": "#C6FF00",
+	"MD_LIME_A700": "#AEEA00"
+    },
+)

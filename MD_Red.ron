@@ -1,0 +1,21 @@
+// Material Design MD_RED palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_RED_50": "#FFEBEE",
+        "MD_RED_100": "#FFCDD2",
+        "MD_RED_200": "#EF9A9A",        
+        "MD_RED_300": "#E57373",
+        "MD_RED_400": "#EF5350",
+        "MD_RED_500": "#F44336",
+        "MD_RED_600": "#E53935",     
+        "MD_RED_700": "#D32F2F",   
+        "MD_RED_800": "#C62828",
+        "MD_RED_900": "#B71C1C",
+        "MD_RED_A100": "#FF8A80",
+     	"MD_RED_A200": "#FF5252",
+	"MD_RED_A400": "#FF1744",
+	"MD_RED_A700": "#D50000"
+    },
+)

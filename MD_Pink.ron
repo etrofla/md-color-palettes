@@ -1,0 +1,21 @@
+// Material Design MD_PINK palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_PINK_50": "#FCE4EC",
+        "MD_PINK_100": "#F8BBD0",
+        "MD_PINK_200": "#F48FB1",        
+        "MD_PINK_300": "#F06292",
+        "MD_PINK_400": "#EC407A",
+        "MD_PINK_500": "#E91E63",
+        "MD_PINK_600": "#D81B60",     
+        "MD_PINK_700": "#C2185B",   
+        "MD_PINK_800": "#AD1457",
+        "MD_PINK_900": "#880E4F",
+        "MD_PINK_A100": "#FF80AB",
+     	"MD_PINK_A200": "#FF4081",
+	"MD_PINK_A400": "#F50057",
+	"MD_PINK_A700": "#C51162"
+    },
+)

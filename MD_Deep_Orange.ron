@@ -1,0 +1,21 @@
+// Material Design MD_DEEP_ORANGE palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_DEEP_ORANGE_50": "#FBE9E7",
+        "MD_DEEP_ORANGE_100": "#FFCCBC",
+        "MD_DEEP_ORANGE_200": "#FFAB91",        
+        "MD_DEEP_ORANGE_300": "#FF8A65",
+        "MD_DEEP_ORANGE_400": "#FF7043",
+        "MD_DEEP_ORANGE_500": "#FF5722",
+        "MD_DEEP_ORANGE_600": "#F4511E",     
+        "MD_DEEP_ORANGE_700": "#E64A19",   
+        "MD_DEEP_ORANGE_800": "#D84315",
+        "MD_DEEP_ORANGE_900": "#BF360C",
+        "MD_DEEP_ORANGE_A100": "#FF9E80",
+     	"MD_DEEP_ORANGE_A200": "#FF6E40",
+	"MD_DEEP_ORANGE_A400": "#FF3D00",
+	"MD_DEEP_ORANGE_A700": "#DD2C00"
+    },
+)

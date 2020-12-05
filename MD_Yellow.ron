@@ -1,0 +1,21 @@
+// Material Design MD_YELLOW palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_YELLOW_50": "#FFFDE7",
+        "MD_YELLOW_100": "#FFF9C4",
+        "MD_YELLOW_200": "#FFF59D",        
+        "MD_YELLOW_300": "#FFF176",
+        "MD_YELLOW_400": "#FFEE58",
+        "MD_YELLOW_500": "#FFEB3B",
+        "MD_YELLOW_600": "#FDD835",     
+        "MD_YELLOW_700": "#FBC02D",   
+        "MD_YELLOW_800": "#F9A825",
+        "MD_YELLOW_900": "#F57F17",
+        "MD_YELLOW_A100": "#FFFF8D",
+     	"MD_YELLOW_A200": "#FFFF00",
+	"MD_YELLOW_A400": "#FFEA00",
+	"MD_YELLOW_A700": "#FFD600"
+    },
+)

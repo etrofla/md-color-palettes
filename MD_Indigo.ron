@@ -1,0 +1,21 @@
+// Material Design MD_INDIGO palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_INDIGO_50": "#E8EAF6",
+        "MD_INDIGO_100": "#C5CAE9",
+        "MD_INDIGO_200": "#9FA8DA",        
+        "MD_INDIGO_300": "#7986CB",
+        "MD_INDIGO_400": "#5C6BC0",
+        "MD_INDIGO_500": "#3F51B5",
+        "MD_INDIGO_600": "#3949AB",     
+        "MD_INDIGO_700": "#303F9F",   
+        "MD_INDIGO_800": "#283593",
+        "MD_INDIGO_900": "#1A237E",
+        "MD_INDIGO_A100": "#8C9EFF",
+     	"MD_INDIGO_A200": "#536DFE",
+	"MD_INDIGO_A400": "#3D5AFE",
+	"MD_INDIGO_A700": "#304FFE"
+    },
+)

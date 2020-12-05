@@ -1,0 +1,18 @@
+// Material Design MD_BROWN palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_BROWN_50": "#EFEBE9",
+        "MD_BROWN_100": "#D7CCC8",
+        "MD_BROWN_200": "#BCAAA4",        
+        "MD_BROWN_300": "#A1887F",
+        "MD_BROWN_400": "#8D6E63",
+        "MD_BROWN_500": "#795548",
+        "MD_BROWN_600": "#6D4C41",     
+        "MD_BROWN_700": "#5D4037",   
+        "MD_BROWN_800": "#4E342E",
+        "MD_BROWN_900": "#3E2723"
+     
+    },
+)

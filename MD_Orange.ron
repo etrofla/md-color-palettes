@@ -1,0 +1,21 @@
+// Material Design MD_ORANGE palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_ORANGE_50": "#FFF3E0",
+        "MD_ORANGE_100": "#FFE0B2",
+        "MD_ORANGE_200": "#FFCC80",        
+        "MD_ORANGE_300": "#FFB74D",
+        "MD_ORANGE_400": "#FFA726",
+        "MD_ORANGE_500": "#FF9800",
+        "MD_ORANGE_600": "#FB8C00",     
+        "MD_ORANGE_700": "#F57C00",   
+        "MD_ORANGE_800": "#EF6C00",
+        "MD_ORANGE_900": "#E65100",
+        "MD_ORANGE_A100": "#FFD180",
+     	"MD_ORANGE_A200": "#FFAB40",
+	"MD_ORANGE_A400": "#FF9100",
+	"MD_ORANGE_A700": "#FF6D00"
+    },
+)

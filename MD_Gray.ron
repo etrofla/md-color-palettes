@@ -1,0 +1,19 @@
+// Material Design MD_GRAY palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_GRAY_50": "#FAFAFA",
+        "MD_GRAY_100": "#F5F5F5",
+        "MD_GRAY_200": "#EEEEEE",        
+        "MD_GRAY_300": "#E0E0E0",
+        "MD_GRAY_400": "#BDBDBD",
+        "MD_GRAY_500": "#9E9E9E",
+        "MD_GRAY_600": "#757575",     
+        "MD_GRAY_700": "#616161",   
+        "MD_GRAY_800": "#424242",
+        "MD_GRAY_900": "#212121",
+        "MD_GRAY_A100": "#ea80fc"
+     
+    },
+)

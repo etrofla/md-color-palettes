@@ -1,0 +1,21 @@
+// Material Design MD_CYAN palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_CYAN_50": "#E0F7FA",
+        "MD_CYAN_100": "#B2EBF2",
+        "MD_CYAN_200": "#80DEEA",        
+        "MD_CYAN_300": "#4DD0E1",
+        "MD_CYAN_400": "#26C6DA",
+        "MD_CYAN_500": "#00BCD4",
+        "MD_CYAN_600": "#00ACC1",     
+        "MD_CYAN_700": "#0097A7",   
+        "MD_CYAN_800": "#00838F",
+        "MD_CYAN_900": "#006064",
+        "MD_CYAN_A100": "#84FFFF",
+     	"MD_CYAN_A200": "#18FFFF",
+	"MD_CYAN_A400": "#00E5FF",
+	"MD_CYAN_A700": "#00B8D4"
+    },
+)

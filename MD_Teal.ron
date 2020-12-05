@@ -1,0 +1,21 @@
+// Material Design MD_TEAL palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_TEAL_50": "#E0F2F1",
+        "MD_TEAL_100": "#B2DFDB",
+        "MD_TEAL_200": "#80CBC4",        
+        "MD_TEAL_300": "#4DB6AC",
+        "MD_TEAL_400": "#26A69A",
+        "MD_TEAL_500": "#009688",
+        "MD_TEAL_600": "#00897B",     
+        "MD_TEAL_700": "#00796B",   
+        "MD_TEAL_800": "#00695C",
+        "MD_TEAL_900": "#004D40",
+        "MD_TEAL_A100": "#A7FFEB",
+     	"MD_TEAL_A200": "#64FFDA",
+	"MD_TEAL_A400": "#1DE9B6",
+	"MD_TEAL_A700": "#00BFA5"
+    },
+)

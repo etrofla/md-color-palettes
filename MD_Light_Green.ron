@@ -1,0 +1,21 @@
+// Material Design MD_LIGHT_GREEN palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_LIGHT_GREEN_50": "#F1F8E9",
+        "MD_LIGHT_GREEN_100": "#DCEDC8",
+        "MD_LIGHT_GREEN_200": "#C5E1A5",        
+        "MD_LIGHT_GREEN_300": "#AED581",
+        "MD_LIGHT_GREEN_400": "#9CCC65",
+        "MD_LIGHT_GREEN_500": "#8BC34A",
+        "MD_LIGHT_GREEN_600": "#7CB342",     
+        "MD_LIGHT_GREEN_700": "#689F38",   
+        "MD_LIGHT_GREEN_800": "#558B2F",
+        "MD_LIGHT_GREEN_900": "#33691E",
+        "MD_LIGHT_GREEN_A100": "#CCFF90",
+     	"MD_LIGHT_GREEN_A200": "#B2FF59",
+	"MD_LIGHT_GREEN_A400": "#76FF03",
+	"MD_LIGHT_GREEN_A700": "#64DD17"
+    },
+)

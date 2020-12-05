@@ -1,0 +1,22 @@
+// Material Design MD_PURPLE palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_PURPLE_50": "#f3e5f5",
+        "MD_PURPLE_100": "#e1bee7",
+        "MD_PURPLE_200": "#ce93d8",        
+        "MD_PURPLE_300": "#ba68c8",
+        "MD_PURPLE_400": "#ab47bc",
+        "MD_PURPLE_500": "#9c27b0",
+        "MD_PURPLE_600": "#8e24aa",     
+        "MD_PURPLE_700": "#7b1fa2",   
+        "MD_PURPLE_800": "#5a1b9a",
+        "MD_PURPLE_900": "#4a14bc",
+        "MD_PURPLE_A100": "#ea80fc",
+        "MD_PURPLE_A200": "#e040fb",
+        "MD_PURPLE_A400": "#d500f9",
+        "MD_PURPLE_A700": "#aa00ff"
+     
+    },
+)

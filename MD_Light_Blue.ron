@@ -1,0 +1,21 @@
+// Material Design MD_LIGHT_BLUE palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_LIGHT_BLUE_50": "#E1F5FE",
+        "MD_LIGHT_BLUE_100": "#B3E5FC",
+        "MD_LIGHT_BLUE_200": "#81D4FA",        
+        "MD_LIGHT_BLUE_300": "#4FC3F7",
+        "MD_LIGHT_BLUE_400": "#29B6F6",
+        "MD_LIGHT_BLUE_500": "#03A9F4",
+        "MD_LIGHT_BLUE_600": "#039BE5",     
+        "MD_LIGHT_BLUE_700": "#0288D1",   
+        "MD_LIGHT_BLUE_800": "#0277BD",
+        "MD_LIGHT_BLUE_900": "#01579B",
+        "MD_LIGHT_BLUE_A100": "#80D8FF",
+     	"MD_LIGHT_BLUE_A200": "#40C4FF",
+	"MD_LIGHT_BLUE_A400": "#00B0FF",
+	"MD_LIGHT_BLUE_A700": "#0091EA"
+    },
+)

@@ -1,0 +1,21 @@
+// Material Design MD_AMBER palette
+Theme (
+    resources: {
+    	"MD_BLACK": "#000000",
+    	"MD_WHITE": "#FFFFFF",
+        "MD_AMBER_50": "#FFF8E1",
+        "MD_AMBER_100": "#FFECB3",
+        "MD_AMBER_200": "#FFE082",        
+        "MD_AMBER_300": "#FFD54F",
+        "MD_AMBER_400": "#FFCA28",
+        "MD_AMBER_500": "#FFC107",
+        "MD_AMBER_600": "#FFB300",     
+        "MD_AMBER_700": "#FFA000",   
+        "MD_AMBER_800": "#FF8F00",
+        "MD_AMBER_900": "#FF6F00",
+        "MD_AMBER_A100": "#FFE57F",
+     	"MD_AMBER_A200": "#FFD740",
+	"MD_AMBER_A400": "#FFC400",
+	"MD_AMBER_A700": "#FFAB00"
+    },
+)
